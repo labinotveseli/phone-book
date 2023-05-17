@@ -23,7 +23,7 @@ The PhoneBook App consists of the following files:
 <h2>App walk-through:</h2>
 
 <b>You can try the Demo of this App here:</b> 
-- [PhoneBook APP](https://color-changer-react-app.netlify.app/)
+- [PhoneBook APP](https://phonebook-app-rjs.netlify.app/)
 
 
 <hr>
