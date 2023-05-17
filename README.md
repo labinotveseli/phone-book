@@ -30,6 +30,6 @@ The PhoneBook App consists of the following files:
 <p align="center">
 <b>Here you can see the layout of the App:</b>
 <hr>
-<img src="https://i.postimg.cc/050W4gDg/scr1.jpg" height="80%" width="80%" alt="phonebook1"/>
-<img src="https://i.postimg.cc/pXgFYrrP/scr2.jpg" height="80%" width="80%" alt="phonebook2"/>
+<img src="https://i.postimg.cc/050W4gDg/scr1.jpg" height="100%" width="100%" alt="phonebook1"/>
+<img src="https://i.postimg.cc/pXgFYrrP/scr2.jpg" height="100%" width="100%" alt="phonebook2"/>
 <hr>
