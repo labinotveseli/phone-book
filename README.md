@@ -1,38 +1,70 @@
-# PhoneBook App
+# Getting Started with Create React App
 
-<h2>Description:</h2>
-The PhoneBook App is a web application built using React. It allows users to manage their contacts by adding, editing, and deleting entries. Contacts can have multiple email addresses and phone numbers. The app provides a user-friendly interface to interact with the contacts and stores the data in the browser's local storage.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h2>Languages and Utilities Used</h2>
+## Available Scripts
 
-- <b>ReactJS</b>
-- <b>JavaScript</b>
-- <b>Bootstrap</b>
-- <b>HTML</b>
-- <b>CSS</b>
+In the project directory, you can run:
 
-<h2>File Structure</h2>
+### `npm start`
 
-The PhoneBook App consists of the following files:
-- <b>App.js: The main component that renders the Navbar and the PhoneBook component.</b>
-- <b>index.css: Contains the styling for the app.</b>
-- <b>index.js: The entry point of the application, which renders the root component (App) into the HTML root element.</b>
-- <b>Nav.js: The Navbar component that displays the app's title.</b>
-- <b>PhoneBook.js: The main component that handles the logic and rendering of the contacts and contact form.</b>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<h2>App walk-through:</h2>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<b>You can try the Demo of this App here:</b> 
-- [PhoneBook APP](https://color-changer-react-app.netlify.app/)
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<hr>
-<p align="center">
-<b>Here you can see the layout of the App:</b>
-<hr>
-<img src="https://i.postimg.cc/050W4gDg/scr1.jpg" height="80%" width="80%" alt="phonebook1"/>
-<img src="https://i.postimg.cc/pXgFYrrP/scr2.jpg" height="80%" width="80%" alt="phonebook2"/>
-<hr>
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
